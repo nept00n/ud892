@@ -1,0 +1,25 @@
+{
+  "name": "web-tools",
+  "version": "1.0.0",
+  "description": "udacity web tooling and automation course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nept00n/ud892.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nept00n/ud892/issues"
+  },
+  "homepage": "https://github.com/nept00n/ud892#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
